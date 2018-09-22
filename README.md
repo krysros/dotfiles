@@ -1,0 +1,2 @@
+# dotfiles
+Moje pliki konfiguracyjne
